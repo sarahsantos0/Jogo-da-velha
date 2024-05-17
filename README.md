@@ -14,6 +14,7 @@ Esse jogo foi desenvolvido durante uma aula sobre lógica de programação no me
 ## Algumas das funções do jogo ⚙️
 - Tabela
 - Menu
+- Histórico
 - Cadrastar jogadores
 - Jogar
 - Verfificar espaço (vazio/ocupado)
