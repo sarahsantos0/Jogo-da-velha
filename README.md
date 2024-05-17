@@ -1,4 +1,4 @@
-# Jogo da Velha em Portugol 👾
+# Jogo da Velha em Portugol Webstudio 👾
 
 ![image](https://github.com/sarahsantos0/Jogo-da-velha/assets/73093949/95e356cd-c62a-436d-ae98-c73041a391df)
 
