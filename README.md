@@ -15,7 +15,7 @@ Esse jogo foi desenvolvido durante uma aula sobre lógica de programação no me
 - Tabela
 - Menu
 - Histórico
-- Cadrastar jogadores
+- Cadastrar jogadores
 - Jogar
 - Verfificar espaço (vazio/ocupado)
 - Verificar ganhador ou empate
